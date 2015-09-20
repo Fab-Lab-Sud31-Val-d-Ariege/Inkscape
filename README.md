@@ -37,7 +37,7 @@ for unix (& mac maybe) change the permission on the file:
 
 - Step 2) Draw or import the image
 
-- Step 3) To run the extension go to: Extension > 305 Engineering > Raster 2 Laser GCode generator
+- Step 3) To run the extension go to: Extension > Fab Lab Sud31 > Mr Beam Raster 2 Laser GCode generator
 
 - Step 4) Play!
 
